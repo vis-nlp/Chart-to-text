@@ -1,0 +1,1 @@
+The statistic show the average cost per beer in U.S. restaurants by how much it cost the restaurant and the price it was sold to the customer in 2013 . Restaurants in the U.S. paid on average 0.6 U.S. dollars per beer , the average price of a beer sold to a restaurant customer was four U.S. dollars in 2013 .

@@ -1,0 +1,1 @@
+Number of passengers denied boarding by the largest U.S. air carriers from 2000 to 2019 , by type ( in 1,000s )

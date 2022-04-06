@@ -1,0 +1,1 @@
+The average energy consumption for one single Bitcoin transaction in 2020 was 741 kilowatt-hours . This was significantly more compared to the cumulative 100,000 VISA transactions with only an energy consumption of 149 kilowatt-hours . Bitcoin is more energy intensive per single transaction than 100,000 VISA transactions .

@@ -1,0 +1,1 @@
+This statistic displays the average annual salary in the Netherlands in 2018 , by gender ( in euros ) . It shows that the average employee , next to an annual salary of roughly 30,100 euros , also received a nearly 4,600 in special payments . Male employees on average received higher salaries and more extras than female employees .

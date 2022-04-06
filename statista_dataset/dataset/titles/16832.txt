@@ -1,0 +1,1 @@
+Number of passengers traveling through Milan Linate Airport in Italy from 2010 to 2019 ( in millions )

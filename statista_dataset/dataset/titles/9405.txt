@@ -1,0 +1,1 @@
+Number of dogs in Italy from 2014 to 2019 ( in 1000s )

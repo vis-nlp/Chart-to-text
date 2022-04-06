@@ -1,0 +1,1 @@
+Number of employees at Dell from 1996 to 2020 ( in 1,000s ) 

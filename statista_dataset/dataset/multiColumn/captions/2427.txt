@@ -1,0 +1,1 @@
+This statistic projects the number of vehicles available in car sharing services in London between 2014 and 2020 . The number of round-trip vehicles , which are picked up and dropped off in the same place , was predicted to grow steadily , while the number of one-way vehicles , which can be dropped off in different places , was forecast to have a much faster growth .

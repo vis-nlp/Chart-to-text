@@ -1,0 +1,1 @@
+This statistic displays the mean body mass index of adults in Scotland in 2019 , by gender and age . In that year , men in the age group 35 to 44 years had a mean BMI of 28 , while women in the same age group had a mean BMI of 28.6 .

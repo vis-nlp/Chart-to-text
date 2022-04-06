@@ -1,0 +1,1 @@
+Electricity prices for households in Croatia from 2010 to 2019 , semi-annually  ( in euro cents per kilowatt hour )

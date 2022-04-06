@@ -1,0 +1,11 @@
+Country,Total number of infections,Average daily number of new cases in last 7 days,Total number of deaths,Change in average new deaths last 7 days vs. previous 7 days
+United States,16256754,210000,299177,2400
+India,9884100,30000,143355,400
+Brazil,6901952,43000,181402,640
+Russia,2629699,27000,46846,530
+France,2430612,12000,58015,400
+Great Britain,1854490,18000,64267,420
+Italy,1843712,16000,64520,640
+Turkey,1836728,31000,16417,220
+Spain,1730575,6600,47624,200
+Argentina,1498160,5000,40766,140

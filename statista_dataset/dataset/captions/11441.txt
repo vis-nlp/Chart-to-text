@@ -1,0 +1,1 @@
+This statistic shows the size of the 100 best hospitals in the United States in 2012 , sorted by the percentage of hospitals that fall into each bed size category . In 2012 , exactly 22 percent out of the top 100 hospitals had between 100 and 249 patient beds .

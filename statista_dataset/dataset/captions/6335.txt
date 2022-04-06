@@ -1,0 +1,1 @@
+This statistic represents passenger-miles in U.S. air traffic from 2007 through 2019 . In 2019 , U.S. passengers covered a distance of over 762.8 billion miles by plane . According to the source , air traffic passenger miles are defined as aircraft-miles flown on each inter airport segment multiplied by the number of passengers carried on that segment .

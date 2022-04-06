@@ -1,0 +1,16 @@
+Total charts: 6943
+
+=== Chart Type Information ===
+Number of charts of each chart type
+column: 4172
+bar: 1444
+line: 902
+table: 424
+pie: 1
+
+=== Token Information ===
+Average token count per summary: 60.82313121129195
+Total tokens: 422295
+Total types (unique tokens): 18725
+=== Sentence Information ===
+Average sentence count per summary: 2.615295981564165

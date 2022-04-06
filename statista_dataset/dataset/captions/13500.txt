@@ -1,0 +1,1 @@
+This statistic shows the sales volume of wine in the United Kingdom ( UK ) from 2008 to 2016 . The number of cases sold in the UK over this period declined . In 2009 , approximately 154 million nine litre cases were sold , decreasing to approximately 141 million nine litre cases by 2016 .

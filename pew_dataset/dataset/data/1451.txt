@@ -1,0 +1,1 @@
+Factors Influenc ing  | Party Affiliation  | .25  | Race  | Church attend.  | 15  | 10  | Gender  | Income  | 08  | OS  | Union him  | Education  | 02  | Association with sparty identification  | Based on multiple regression analysis. Data from 21  | Pew surveys conducted since January 2004 

@@ -1,0 +1,1 @@
+This statistic displays the mean waist circumference of adults in England in 2019 , by gender and age . In this year , the mean waist circumference among age group of 65 to 74 years was 104.7 centimeters for men and 92.8 centimeters for women .

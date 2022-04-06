@@ -1,0 +1,1 @@
+This statistic displays the average building cost per square meter of internal space for six types of building  in selected cities/regions of Europe in 2018 , measured in U.S. dollars . Of the cities and regions displayed here , Zurich had the highest building costs per square meter , at approximately 3,652 U.S. dollars per square meter .

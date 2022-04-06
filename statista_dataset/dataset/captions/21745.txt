@@ -1,0 +1,1 @@
+This line graph shows the penetration rate of rear view cameras in cars that were imported to the United States from 2009 to 2015 : The rate started at seven percent in 2009 , increased to 16 percent by 2012 , and increased further to 56 percent by 2015 , showing exponential growth in that time period .

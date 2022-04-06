@@ -1,0 +1,1 @@
+This statistic presents the revenue per available room ( RevPAR ) of hotels in France in July 2017 , by hotel category ( in euros excluding VAT ) . That year , the revenue per available room in a downmarket hotel in France was estimated at 33.3 euros .

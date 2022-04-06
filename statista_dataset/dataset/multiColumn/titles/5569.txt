@@ -1,0 +1,1 @@
+Number of earthquakes in the United States from 2005 to 2012 , by magnitude

@@ -1,0 +1,1 @@
+This statistic shows a ranking of the countries most affected by banking trojans and PoS or ATM malware in 2017 . During the measured year , Germany ranked first with 4.44 percent of malware victims having been attacked by financial malware .

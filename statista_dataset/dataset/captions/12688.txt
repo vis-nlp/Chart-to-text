@@ -1,0 +1,1 @@
+The statistic provides information on the leading genres of the blockbuster movies based on a study on movies from 1975 to 2013 . According to the findings , 46 percent of blockbusters were classified ( among others ) as action movies .

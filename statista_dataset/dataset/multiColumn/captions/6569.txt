@@ -1,0 +1,1 @@
+This statistic shows the price index of the WOZ value and selling prices of houses in the Netherlands from 2008 to 2016 . The indices show that the WOZ value follows the selling prices closely and has risen since 2015 .

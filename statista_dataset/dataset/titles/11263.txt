@@ -1,0 +1,1 @@
+Average daily rate of hotels in London by quarter from 2011 to 2013 ( in GBP ) 

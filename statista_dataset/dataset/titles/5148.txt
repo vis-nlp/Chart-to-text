@@ -1,0 +1,1 @@
+Vehicle production forecast for BMW from 2012 to 2017 ( in million units )

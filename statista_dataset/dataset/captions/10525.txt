@@ -1,0 +1,1 @@
+In 2018 , it was found that 21.1 percent of malware cases involved infected websites distributing malware code in the form of web programming language HTML . According to AV-Test , the .zip compression format was ranked second with a 2.6 percent share .

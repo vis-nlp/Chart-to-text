@@ -1,0 +1,1 @@
+The statistic shows the number of IPv4 addresses in selected countries during the first quarter of 2017 . During that period of time , South Korea had about 26.23 million unique IPv4 addresses . Globally , there are approximately 814 million unique IPv4 addresses .

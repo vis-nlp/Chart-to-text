@@ -1,0 +1,1 @@
+This graph represents the total number of crashes per 100 million vehicle-miles traveled ( VMT ) in the United States in 2018 , with a breakdown by month . In December 2018 , there were about 2,680 fatal crashes overall on U.S. streets , resulting in a crash rate of 0.99 per 100 million vehicle miles traveled ( VMT ) .

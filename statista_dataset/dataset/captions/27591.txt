@@ -1,0 +1,1 @@
+This statistic displays the annual average temperature in Belgium from 2006 to 2016 in degrees Celsius . The highest average temperature , 11.9 degrees Celsius , was measured in 2014 , and the lowest average temperature , 9.7 degrees Celsius , was measured in 2010 .

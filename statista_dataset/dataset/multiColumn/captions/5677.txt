@@ -1,0 +1,1 @@
+This statistic displays the wait times for cancer surgery in Canada within the 90th percentile , by cancer site , in 2015 and 2019 . In 2019 , the colorectal surgery wait time in the country was 45 days for the 90th percentile . Long wait times can prevent sick patients from receiving timely health care services .

@@ -1,0 +1,21 @@
+"Name (company, type)",Minimum months,Maximum months
+"Remdesivir (Gilead Sciences, drug)",0,3
+Hydroxychloroquine/chloroquine (drug),0,3
+"Actemra/tocilizumab (Roche, drug)",0,3
+"Kevzara/sarilumab (Sanofi, Regeneron, drug)",0,3
+"Jakavi/ruxolitinib (Novartic, Incyte, drug)",0,3
+"mRNA 1273 (Moderna, NIAID, vaccine)",0,3
+Convalescent plasma (non-drug therapy),0,3
+"Kaletra/lopinavir/ritonavir (AbbVie, drug)",0,3
+"NKG2D-ACE2 CAR-NK cells (Chongqing Public Health Medical Center, Chongqing Sidemu Biotechnology Technology Co., Ltd., non-drug therapy)",0,3
+"NVX-CoV2373 (Novavax, vaccine)",0,3
+"RhACE2 APN01 (Apeiron Biologics, drug)",3,6
+"Lentiviral Minigene Vaccines/LV-SMENP (Shenzen Geno-immune Med. Inst., vaccine)",3,6
+"BCG tuberculosis vaccine (MCRI, UMC Utrecht, vaccine)",3,6
+"INO-4800 (Inovio Pharmaceuticals, CEPI, vaccine)",3,6
+"Camostat mesylate (Univeristy of Aarhus, DK, drug)",6,12
+"IFX-1 (Inflarx, drug)",6,12
+"AD5-nCov (Cansino Biological Inc./Beijing Institue of Biotechnology, vaccine)",6,12
+"Aspirin, Clopidogrel, Rivaroxaban, Atorvastatin, Omeprazole (Imperial College London, drug)",9,12
+"ChAdOx1 (University of Oxford, vaccine)",12,18
+"Serology/Antibody Testing (Government and academic groups, testing)",0,12

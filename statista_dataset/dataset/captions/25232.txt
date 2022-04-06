@@ -1,0 +1,1 @@
+This statistic displays the average waiting time for elective surgery in NHS hospitals in the United Kingdom in 2014 , by procedure . In this year , patients spent an average of 106.97 days waiting on a knee operation .

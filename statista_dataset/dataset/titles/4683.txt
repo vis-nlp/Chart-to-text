@@ -1,0 +1,1 @@
+Bitcoin network average energy consumption per transaction compared to VISA network as of 2020 ( in kilowatt-hours )

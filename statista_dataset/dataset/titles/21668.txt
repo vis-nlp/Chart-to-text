@@ -1,0 +1,1 @@
+Development of the Bloomberg Barclays MSCI Global Green Bond Index from 2016 to 2019

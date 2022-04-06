@@ -1,0 +1,1 @@
+This statistic displays the pollen count in selected cities during spring in Spain in 2017 . That year , the concentration of grains of pollen was higher in cities such as Caceres , with approximately 13 thousand grains per cubic meter of air .

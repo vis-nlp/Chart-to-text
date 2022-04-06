@@ -1,0 +1,1 @@
+This statistic presents the number of detected malicious installation packages on mobile devices worldwide from the fourth quarter of 2015 to the first quarter of 2020 . During the most recently measured period , the source detected over 1.15 million mobile malware installation packages .

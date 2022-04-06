@@ -1,0 +1,1 @@
+The house price index ( HPI ) is an easy way of illustrating trends on the house sales market and to help simplify house purchase decisions . By using hedonic regression , the index models property price data for all dwellings and shows how much the price has changed since January 2015 .

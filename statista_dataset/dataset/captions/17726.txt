@@ -1,0 +1,1 @@
+This graph displays the distribution of sales volume of bakery products in France in 2017 , by sales channel . It appears that 34 percent of bakery and pastries volume were sold in retail stores , while 28 percent were distributed by artisans .

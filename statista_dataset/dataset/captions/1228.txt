@@ -1,0 +1,1 @@
+As of early 2020 , JavaScript and HTML/CSS were the most commonly used programming languages among software developers around the world , with nearly 68 percent of respondents stating that they used JavaScript and 63.5 percent using HTML/CSS . SQL . Python , and Java rounded out the top five most widely used programming languages around the world .

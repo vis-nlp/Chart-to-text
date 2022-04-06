@@ -1,0 +1,1 @@
+The statistic shows the most used libraries , frameworks , and tools among software developers worldwide , as of early 2020 . According to the survey , 51.4 percent of respondents used Node.js , while 35.1 percent used .NET . Usage growth has been seen with data analysis and machines learning technologies such as Pandas and TensorFlow .

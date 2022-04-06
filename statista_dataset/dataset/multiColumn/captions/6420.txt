@@ -1,0 +1,1 @@
+This statistic shows the distribution of pediatric emergency room visits in the U.S. in FY 2015 , by visit outcome and payer . Among the pediatric ED visits which resulted in an hospital admission , 59 percent were paid by Medicaid .

@@ -1,0 +1,11 @@
+injury type,2010,2011,2012,2013
+Death,3404,3099,2996,3046
+Significant permanent injury,1475,1425,1409,1413
+Minor permanent injury,1192,1154,1137,1284
+Major temporary injury,1117,1148,1081,1081
+Major permanent injury,1062,1014,1028,1078
+Minor temporary injury,919,1021,903,911
+"Quadriplegic, brain damage, lifelong care",562,456,448,467
+Emotional injury only,175,161,118,199
+Insignificant injury,201,190,163,136
+Cannot be determined *,92,90,-,62

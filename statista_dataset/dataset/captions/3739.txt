@@ -1,0 +1,1 @@
+In November 2020 , the seasonally adjusted unemployment rate among male adults stood at 6.9 percent . The unemployment rate for both genders can be found here . Seasonal adjustment is a statistical method for removing the seasonal component of a time series that is used when analyzing non-seasonal trends .

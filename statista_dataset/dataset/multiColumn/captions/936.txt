@@ -1,0 +1,1 @@
+React Native is the most popular cross-platform mobile framwork used by global developers , according to a 2020 developer survey . According to the survey , 42 percent of software developers used React Native . Roughly one third of mobile developers use cross-platform technologies or frameworks ; the rest of mobile developers use native tools .

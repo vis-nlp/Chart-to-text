@@ -1,0 +1,1 @@
+This statistic shows the distribution of ransomware detections worldwide from January to June 2017 , by country . During the measured time , the United States accounted for 29 percent of global ransomware detections .

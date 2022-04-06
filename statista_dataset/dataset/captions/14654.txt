@@ -1,0 +1,1 @@
+According to AV-Test , trojans were found to be the preferred means for cybercriminals to infiltrate Android systems . In 2019 , trojans accounted for 93.93 percent of all malware attacks on Android systems . Ransomware ranked second , with 2.47 percent of Android malware samples involving this variant .

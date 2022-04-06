@@ -1,0 +1,1 @@
+This statistic presents the distribution of attempted business email compromise ( BEC ) scams worldwide in 2019 , sorted by spoofed specific positions . According to the source , the most spoofed position was the CEO , meaning that 41.1 percent of BEC scammers pretended to be CEOs of their victim companies .

@@ -1,0 +1,1 @@
+This statistic shows the deployment breakdown for Microsoft SharePoint servers worldwide from 2018 to 2020 . In 2020 , around 81 percent of Microsoft SharePoint users utilized cloud-based SharePoint servers rather than on-premises servers , an increase from the year before .

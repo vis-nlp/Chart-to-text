@@ -1,0 +1,1 @@
+jQuery was the most used web framework among software developers worldwide , as of early 2020 . According to the survey , 43.3 percent of respondents reported to be using jQuery , while 35.9 percent were using React.js . jQuery has been losing ground to React.js and Angular over the years .

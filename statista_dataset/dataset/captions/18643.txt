@@ -1,0 +1,1 @@
+The statistic shows the distributed denial-of-service ( DDoS ) and bot protection software market share as of June 2020 , by vendor . As of then , Cloudflare Security had the greatest market share worldwide , which stood at 73.2 percent .

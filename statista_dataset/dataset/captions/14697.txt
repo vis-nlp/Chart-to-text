@@ -1,0 +1,1 @@
+The graph shows the share of mobile apps worldwide using selected mobile analytics software development kits ( SDKs ) in 2017 . According to the source , Google Tag Manger was the most popular mobile analytics SDK with a 63.25 percent usage reach . Facebook Analytics was ranked second with a 21.17 percent install rate .

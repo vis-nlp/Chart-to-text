@@ -1,0 +1,1 @@
+This statistic displays the total costs per hospital full-time equivalent ( FTE ) in the United States based on MHS ( multihospital system ) or non-MHS ownership from 2006 to 2014 . In 2010 , non-MHS hospitals had a total cost of 131,386 U.S. dollars per FTE .

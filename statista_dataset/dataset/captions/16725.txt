@@ -1,0 +1,1 @@
+This statistic displays the number of hospital beds in Germany from 2000 to 2017 . The number of hospital beds decreased over the period concerned from a high of over 749 thousand beds in 2000 to approximately 661 thousand in 2017 .

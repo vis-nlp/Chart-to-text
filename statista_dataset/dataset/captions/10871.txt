@@ -1,0 +1,1 @@
+This statistic shows the daily downloads that apps are required to reach for a placement in the Top 10 , Top 25 and Top 50 of the most downloaded apps in Australia 's Apple app store . For a placement in the Top 10 , an app requires at least 8,000 daily downloads .

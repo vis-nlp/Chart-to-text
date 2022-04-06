@@ -1,0 +1,1 @@
+This statistic shows the price of a ham-butter sandwich in some cities of France in 2017 . That year , a ham-butter sandwich cost more than three euros in Toulouse , Bordeaux and in Paris , among other cities . A ham-butter sandwich cost less than three euros in Marseille , Lille and Rennes .

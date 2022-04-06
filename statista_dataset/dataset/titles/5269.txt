@@ -1,0 +1,1 @@
+Number of seats flown on easyJet flights between 2011 and 2020 ( in millions )

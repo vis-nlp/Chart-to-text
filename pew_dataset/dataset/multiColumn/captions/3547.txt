@@ -1,0 +1,2 @@
+A comparison of the activity flags to the final dispositions assigned by the interviewers reveals that while the flag is accurate for the majority of cases, there are both false positives (numbers flagged as active that are actually nonworking or nonresidential) and false negatives (numbers flagged as inactive that are actually working and residential).
+Among the flagged-inactive cases, 15 percent were found to be working and residential (false negatives). Among the flagged-active cases, 10 percent were found to be nonworking or nonresidential (false positives).

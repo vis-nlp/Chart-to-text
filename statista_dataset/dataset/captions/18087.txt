@@ -1,0 +1,1 @@
+This statistic displays the average waiting time for surgery on the adenoid glands in NHS hospitals in the United Kingdom from 2010 to 2015 . Over the six year period the average waiting time for adenoid surgery increased by over 40 days to 109.8 days in 2015 .

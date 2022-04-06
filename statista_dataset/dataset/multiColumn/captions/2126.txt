@@ -1,0 +1,1 @@
+As of March 2020 , the total number of new Android malware samples amounted to 482,579 per month . According to AV-Test , trojans were the most common type of malware affecting Android devices .

@@ -1,0 +1,1 @@
+This statistic shows the incidence rate of skin cancer in the U.S. from 1999 to 2017 , by gender , per 100,000 population . The rate of skin cancer increased for both sexes over the given period with the rate for males consistently higher than that of females .

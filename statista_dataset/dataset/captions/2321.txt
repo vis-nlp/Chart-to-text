@@ -1,0 +1,1 @@
+This graph shows the American Customer Satisfaction Index ( ACSI ) score of the e-commerce website of Amazon.com from 2000 to 2018 . In 2019 , the customer satisfaction score of the online retailer was 83 out of 100 ASCI points .

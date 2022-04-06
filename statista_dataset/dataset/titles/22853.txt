@@ -1,0 +1,1 @@
+Number of vehicle-miles traveled on all roads in the United States from 1993 to 2019 ( in trillions )

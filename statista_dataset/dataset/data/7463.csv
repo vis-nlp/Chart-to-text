@@ -1,0 +1,10 @@
+segment type,Operating revenue in million U.S. dollars
+Collection,10240
+Collection -commercial,4229
+Collection -residential,2613
+Collection -industrial,2916
+Collection -other,482
+Landfill,3846
+Recycling,1040
+Transfer,1820
+Other,1758

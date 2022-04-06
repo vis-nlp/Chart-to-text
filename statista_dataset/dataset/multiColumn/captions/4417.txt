@@ -1,0 +1,1 @@
+The statistic shows the leading challenges in testing mobile and multi-channel ( mobile , social , and traditional ) applications , according to a survey of senior IT-management executives worldwide . In 2018 , 52 percent of respondents identified a lack of time as the greatest challenge in the way of mobile and multi-channel application testing .

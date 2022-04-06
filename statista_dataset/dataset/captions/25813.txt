@@ -1,0 +1,1 @@
+This statistic displays the house price index for existing houses in Spain from 2008 to 2019 . It can be seen that the house price index decreased overall during the period under observation , reaching a value of approximately 123 index points in 2019 .

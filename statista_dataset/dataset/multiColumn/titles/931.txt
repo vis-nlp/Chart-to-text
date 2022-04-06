@@ -1,0 +1,1 @@
+Export prices of rice worldwide from 2011 to 2019 , by selected varieties ( in U.S. dollars per metric ton , f.o.b . )

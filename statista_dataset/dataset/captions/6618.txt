@@ -1,0 +1,1 @@
+This statistic displays the leading country code top-level domains ( ccTLD ) as of October 2020 , sorted by number of domains . As of the measured period , there were approximately 78.97 million .de domains . Domains registered to China were ranked first with 100.22 million registrations .

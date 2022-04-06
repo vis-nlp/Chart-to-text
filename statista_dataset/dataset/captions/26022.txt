@@ -1,0 +1,1 @@
+This statistic presents the most commonly detected malware file extensions worldwide between January to September 2017 . According to the findings , the most commonly detected malware file extension during the recorded time period were Office-related files , accounting for 38 percent of detections .

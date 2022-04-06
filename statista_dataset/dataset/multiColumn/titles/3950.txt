@@ -1,0 +1,1 @@
+Weighted average price of diamonds from Ekati and Diavik diamond mines in Canada from 2012 to 2014 ( in U.S. dollars per carat )

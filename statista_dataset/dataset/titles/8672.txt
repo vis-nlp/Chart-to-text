@@ -1,0 +1,1 @@
+Global wearable device data traffic from 2015 to 2020 ( in petabytes per month )

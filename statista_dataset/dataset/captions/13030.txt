@@ -1,0 +1,1 @@
+This statistic displays the hospital admission prices for a normal delivery in selected countries in 2017 . In that year , the cost for a normal delivery in a hospital came to some 6,100 U.S. dollars in Australia .

@@ -1,0 +1,1 @@
+The statistic shows the focus areas for testing mobile applications , from 2013 to 2017 , according to a survey of senior IT-management executives worldwide . In 2017 , 46 percent of respondents identified certification of their applications as one of the focus areas for mobile application testing .

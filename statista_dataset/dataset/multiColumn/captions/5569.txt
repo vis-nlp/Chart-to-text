@@ -1,0 +1,1 @@
+This statistic shows the number of earthquakes in the United States from year 2005 to 2012 , by magnitude . In 2005 , 1,475 earthquakes with a Richter magnitude scale between 3.0 and 3.9 were recorded in the United States .

@@ -1,0 +1,1 @@
+Mean wait time for any ambulance diversion in U.S. emergency departments in 2008 , by hospital location ( in minutes ) 

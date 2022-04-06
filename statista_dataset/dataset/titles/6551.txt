@@ -1,0 +1,1 @@
+Average unit price of bicycles in France in 2017 , by type of bike ( in euros )

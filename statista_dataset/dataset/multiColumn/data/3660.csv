@@ -1,0 +1,14 @@
+COVID-19 antibody tests,Sensitivity,Specificity,PPV,NPV
+Abbott - Alinity i Sars-CoV-2 IgG,100.0,99.0,84.0,100.0
+Abbott - Architect Sars-CoV-2 IgG,100.0,99.6,92.9,100.0
+Autobio - Anti-Sars-CoV-2,99.0,99.0,84.4,99.9
+Bio-Rad - Platelia Sars-CoV-2 total Ab,92.2,99.6,91.7,99.6
+Cellex - qSars-CoV-2 IgG/IgM,93.8,96.0,55.2,99.7
+Diasorin - Liaison Sars-CoV-2 S1/S2 IgG,97.6,99.3,88.0,99.9
+Inbios - SCoV-2 Detect IgG Elisa,97.8,99.0,83.1,99.9
+Ortho-Clinical Diagnostics - Vitros anti-Sars-CoV-2 IgG,90.0,100.0,100.0,99.5
+Ortho-Clinical Diagnostics - Vitros anti-Sars-CoV-2 Total,100.0,100.0,100.0,100.0
+Roche - Elecsys anti-Sars-CoV-2,100.0,99.8,96.5,100.0
+Siemens Healthineers - Advia Centaur COV2T,100.0,99.8,96.5,100.0
+Siemens Healthineers - Atellica COV2T,100.0,99.8,96.7,100.0
+Vibrant America - Vibrant Covid-19 Ab,98.1,98.6,78.7,99.9

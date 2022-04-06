@@ -1,0 +1,1 @@
+This statistic shows the total number of physicians in Canada as of January 2018 , by country of MD graduation . The data is based on the Canadian Medical Association masterfile . There were 62,765 physicians who had graduated in Canada itself and 801 physicians who graduated in the United States .

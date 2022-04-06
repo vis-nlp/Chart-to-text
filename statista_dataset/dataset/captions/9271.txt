@@ -1,0 +1,1 @@
+This graph shows the number of breweries per capita in Canada from 2012 to 2019 . In 2019 , there were 3.7 breweries in Canada per every 100,000 Canadian legal drinking age adults , an increase from 3.4 the previous year .

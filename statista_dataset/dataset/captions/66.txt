@@ -1,0 +1,1 @@
+The seasonally-adjusted national unemployment rate is measured on a monthly basis in the United States . In November 2020 , the national unemployment rate was at 6.7 percent . Seasonal adjustment is a statistical method of removing the seasonal component of a time series that is used when analyzing non-seasonal trends .

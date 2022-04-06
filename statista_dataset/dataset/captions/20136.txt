@@ -1,0 +1,1 @@
+This statistic shows the size of the 50 best hospitals in the United States in 2011 , sorted by the number of beds per hospital . In 2011 , 9 out of the top 50 U.S. hospitals had between 100 and 249 patient beds .

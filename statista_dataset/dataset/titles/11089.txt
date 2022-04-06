@@ -1,0 +1,1 @@
+Number of successfully crowdfunded projects on Kickstarter.com from 2010 to 2014

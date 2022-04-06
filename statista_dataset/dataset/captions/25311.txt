@@ -1,0 +1,1 @@
+This survey shows the handling of data leakage of sensitive information in organizations in 2012 . 72 percent of respondents have defined a policy for the classification and handling of sensitive data as a control for data leakage risk .

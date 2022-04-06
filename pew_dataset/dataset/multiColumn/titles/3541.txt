@@ -1,0 +1,1 @@
+Weighting corrects for oversampling weighting ofpoll respondents 25%

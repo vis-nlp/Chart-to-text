@@ -1,0 +1,1 @@
+This statistic displays the number of average available beds in hospitals in Northern Ireland from 2009/10 to 2019/20 . The number of available hospital beds has slowly decreased from roughly 7,266 in 2009/10 to approximately 5,780 in 2019/20 .

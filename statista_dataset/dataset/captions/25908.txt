@@ -1,0 +1,1 @@
+The statistic shows the number of new mobile vulnerabilities between the years 2010 and 2016 . The number amounted to 606 new mobile vulnerabilities in 2016 , up from 552 mobile vulnerabilities in the previous year .

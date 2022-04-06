@@ -1,0 +1,1 @@
+This statistic displays the volume of wine ( excluding juice and musts ) produced in Switzerland from 2010 to 2019 . The total volume of wine produced in Switzerland has fluctuated since 2010 . In 2019 , there were around 1 million hectoliters of wine produced .

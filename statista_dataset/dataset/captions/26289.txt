@@ -1,0 +1,1 @@
+The statistic shows the proportion of Microsoft Windows devices found to be using antivirus software with real-time protection ( RTP ) enabled , as of May 2015 . As of May 2015 , an estimated 39 percent of Windows devices with installed antivirus software worldwide were found to be without real-time protection .

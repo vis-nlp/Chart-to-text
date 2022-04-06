@@ -1,0 +1,1 @@
+This statistic displays the median household disposable income in Belgium from 2000 to 2010 . The median disposable household income increased from around 33 thousand euros in 2000 to roughly 41 thousand euros in 2009 .

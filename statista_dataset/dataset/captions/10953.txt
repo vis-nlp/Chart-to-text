@@ -1,0 +1,1 @@
+This statistic displays the hospital admission prices for a C-section delivery in selected countries in 2017 . In that year , the cost of a C-section delivery in a hospital stood at some 8,400 U.S. dollars in Australia , while costs in the U.S. stood at some 15 thousand U.S. dollars . Medical costs in the United States are among the highest in the world .

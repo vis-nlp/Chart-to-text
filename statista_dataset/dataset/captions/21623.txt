@@ -1,0 +1,1 @@
+This statistic displays the volume of wine ( excluding juice and musts ) produced in Croatia from 2010 to 2014 . The total volume of wine produced in Croatia has decreased slightly since 2010 . In 2010 there were approximately 1.4 million hectoliters of wine produced .

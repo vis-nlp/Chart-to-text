@@ -1,0 +1,12 @@
+type,Income in NOK
+"Couples with children, oldest child 18 years and older",1029400
+Couples with children 7-17 years,918600
+"Couples without children, oldest person 45-64 years",792100
+Couples with children 0-6 years,787700
+"Couples without children, oldest person under 45 years",629900
+"Couples without children, oldest person 65 years and older",590200
+Single mother/father with children 18 years and older,566600
+Single mother/father with children 0-17 years,421200
+Singles 45-64 years,339000
+Singles under 45 years,303800
+Singles 65 years and older,274000

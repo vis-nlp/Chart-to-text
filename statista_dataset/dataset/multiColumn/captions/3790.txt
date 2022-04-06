@@ -1,0 +1,1 @@
+Traditional data centers globally have decreased their energy demand , from around 97.6 terawatt hours in 2015 , to some 50 terawatt hours in 2019 , and a forecast indicated that this figure will reach nearly 33 terawatt hours by 2021 . On the other hand , hyperscale data centers have doubled their energy demand in the same period of time .

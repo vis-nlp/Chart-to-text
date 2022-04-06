@@ -1,0 +1,1 @@
+Average prime time bitrate for content streamed to Netflix members in France from May 2015 to October 2017 , by internet service provider ( in megabits per second )

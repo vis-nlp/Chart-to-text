@@ -1,0 +1,1 @@
+This graph shows the forecasted number of terminal passengers at airports in the UK between 2008 and 2050 . The forecast was based on airports using current runways to full capacity . Both international and domestic passenger numbers were expected to rise .

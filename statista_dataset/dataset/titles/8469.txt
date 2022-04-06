@@ -1,0 +1,1 @@
+Total number of passengers carried by Frontier Airlines from 2004 to 2019 ( in millions )

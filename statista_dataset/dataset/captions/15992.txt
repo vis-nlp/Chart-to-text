@@ -1,0 +1,1 @@
+This statistic gives information on the ten countries with the highest malware encounter and detection rates during the second quarter of 2016 . During the survey period it was found that 29.4 percent of Microsoft computer executing the MSRT in Brazil detected malware threats to their system .

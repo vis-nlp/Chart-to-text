@@ -1,0 +1,1 @@
+This statistic gives information on the share of cyber crime costs U.S. companies incurred through malware in 2015 , sorted by company size . During the survey , it was found that malware accounted for 9 percent of cyber crime costs incurred by companies below the median number of 13,251 enterprise seats .

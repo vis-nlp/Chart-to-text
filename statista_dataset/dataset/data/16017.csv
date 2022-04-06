@@ -1,0 +1,6 @@
+Time length,Viewing time on a scale from 0-4
+Videos 1 minute long or less,1.75
+Videos 2 to 5 minutes long,2.03
+Videos 6 to 30 Minutes long,2.06
+Videos 31 to 60 minutes long,1.89
+Videos longer than 60 minutes,1.81

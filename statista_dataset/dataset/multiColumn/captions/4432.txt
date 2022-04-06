@@ -1,0 +1,1 @@
+This statistic shows the deployment breakdown for Microsoft Exchange Server mailboxes worldwide from 2018 to 2020 . Around 57 percent of Microsoft Exchange Server users utilized cloud-based Exchange mailboxes in 2020 .

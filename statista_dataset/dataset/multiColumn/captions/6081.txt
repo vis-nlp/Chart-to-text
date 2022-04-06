@@ -1,0 +1,1 @@
+This statistic displays the interviewer-measured mean BMI ( body mass index ) of individuals in England from 1993 to 2019 , by gender . In the year 2019 , the mean interviewer-measured BMI of both men and women was 27.6 kilograms per square meter .

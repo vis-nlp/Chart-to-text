@@ -1,0 +1,1 @@
+This statistic shows the number of cars sold by Ford in Austria between 2010 and 2018 . Austrian sales of Ford cars rose to 23.7 thousand units sold in 2011 before continuously declining to under 18 thousand units sold in 2015 . It subsequently increased again in the following years , reaching 20.75 thousand units in 2017 .

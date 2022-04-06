@@ -1,0 +1,1 @@
+Gini coefficient as a measure for household income distribution inequality for U.S. states in 2019

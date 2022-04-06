@@ -1,0 +1,1 @@
+The statistic shows the most sought-after database knowledge among developers worldwide as of early 2020 . According to the survey , 19.4 percent of respondents identified MongoDB as one of the most-wanted database skills .

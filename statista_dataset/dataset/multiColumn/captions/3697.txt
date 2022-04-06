@@ -1,0 +1,1 @@
+This statistic shows the wine preferences of people in France in 2015 , by region . It reveals that 65 percent of respondents from the Ile-de-France region preferred drinking red wine while 34 percent of respondents from South-eastern France had a preference for white wine .

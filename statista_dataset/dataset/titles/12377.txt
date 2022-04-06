@@ -1,0 +1,1 @@
+Forecast hotel occupancy rate in London from April to June 2020 

@@ -1,0 +1,1 @@
+The house price index ( HPI ) shows changes in the value of residential properties in England , Scotland , Wales , and Northern Ireland . With the HPI set at a base of 100 in January 2015 , a value of over 100 would mark an increase in the average dwelling price . A value of under 100 points , on the other hand , would indicate that the average price has dropped .

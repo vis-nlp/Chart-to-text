@@ -1,0 +1,11 @@
+store type,Weekday,Weekend,Regardless of a day
+Shopping mall in the Moscow region with around 180k sq.m.,78,155,-
+Shopping mall with up to 40k sq.m.*,-,-,80
+Shopping mall with over 40k sq.m.*,-,-,112
+Cafe in the city center,0.1,0.2,-
+Flower shop**,0.03,0.04,-
+Apparel chain store of 150 sq.m. in the shopping mall,0.04,0.1,-
+Averaga-price category gym with pool of 2.5k sq.m.***,-,-,0.3
+Express manicure in the shopping mall,-,-,0.08
+Express manicure in the business center,-,-,0.05
+Beauty salon in the business center,-,-,0.1

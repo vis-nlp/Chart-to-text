@@ -1,0 +1,1 @@
+Trojans were found to be the most widely chosen tool for cybercriminals to infiltrate Windows systems in 2019 , according to AV-Test . As of the measured period , trojans accounted for 64.31 percent of all malware attacks on Windows systems , followed by viruses at 15.52 percent .

@@ -1,0 +1,1 @@
+Length of longest international land borders worldwide ( in kilometers )

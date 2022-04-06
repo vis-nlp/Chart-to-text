@@ -1,0 +1,1 @@
+This statistic shows the mean wait time for any ambulance diversion in U.S. emergency departments in 2008 , by hospital location . In that year , the mean waiting time for ambulance diversion in emergency departments located in U.S. hospitals within metropolitan statistical area was 64.1 minutes .

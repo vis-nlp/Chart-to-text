@@ -1,0 +1,1 @@
+Since 2000 , the number of hospitals in Greece has been steadily falling . In 2018 , there were 271 hospitals in the country which is the lowest number in the provided time interval . In 2013 , the number of hospitals in the country fell below three hundred and has remained below since then .

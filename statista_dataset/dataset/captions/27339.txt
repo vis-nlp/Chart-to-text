@@ -1,0 +1,1 @@
+This statistic displays the consumption of sparkling wine in Belgium from 2003 to 2013 . The consumption of sparkling wine in Belgium has substantially increased since 2003 , reaching 458 thousand hectoliters in 2013 .

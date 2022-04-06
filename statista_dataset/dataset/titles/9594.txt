@@ -1,0 +1,1 @@
+Number of daily sun hours in the Italian city of Rome from January 2018 to November 2019 ( in hours per day ) 

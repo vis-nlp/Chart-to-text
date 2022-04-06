@@ -1,0 +1,10 @@
+Race,Department of Commerce,Department of Energy,Department of Health and Human Services,Department of Homeland Security,Department of Justice,Department of State,Department of the Treasury,Department of Transportation,Department of Veterans Affairs,National Aeronautics and Space Administration,Social Security Administration,Securities and Exchange Commission
+Attrition,4,1,14,0,6,36,1,1,3,2,66,0
+E-mail/phishing,660,79,885,477,610,3082,5,27,358,5,67,339
+External/removable media,0,0,16,9,0,2,0,0,4,0,0,0
+Impersonation,2,0,26,0,1,0,1,2,3,0,2,0
+Improper usage,582,172,3588,143,175,514,114,172,75,180,1547,100
+Loss or theft of equipment,67,191,823,14,42,22,16,93,362,23,38,1
+Web,196,42,1263,64,82,353,5,74,239,30,501,35
+Other,305,161,3063,420,270,541,43,324,732,76,1147,74
+Multiple attack vectors,11,1,0,0,2,10,0,10,0,1,1,2

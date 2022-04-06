@@ -1,0 +1,1 @@
+Export value of Italian white wines between the 1st half of 2012 and the 1st half of 2020 , by denomination ( in million euros )

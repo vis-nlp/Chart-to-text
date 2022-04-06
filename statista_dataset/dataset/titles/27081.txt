@@ -1,0 +1,1 @@
+Minimum average annual temperature in the U.S. from 1895 to 2019 ( in Celsius )

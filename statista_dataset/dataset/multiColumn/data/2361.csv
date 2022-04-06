@@ -1,0 +1,10 @@
+Response,2018,2019
+"Source code collaboration tool (e.g. GitHub, GitLab, Bitbucket)",77%,80%
+"Standalone IDE (e.g. Eclipse, IntelliJ IDEA)",82%,75%
+"Lightweight Desktop Editor (e.g. Sublime Text, Atom, Visual Studio Code, Vim)",69%,71%
+"Continuous Integration (CI) or Continuous Delivery (CD) tool (e.g. Jenkins, TeamCity)",44%,45%
+"Issue tracker (e.g. Jira, YouTrack)",44%,44%
+Static analysis tool (e.g. CodeClimate),14%,13%
+"Code review tool (e.g. Crucible, Upsource)",13%,10%
+In-cloud Editor or IDE,8%,9%
+None,2%,3%

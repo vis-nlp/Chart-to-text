@@ -1,0 +1,1 @@
+This statistic depicts the total number of newly added ransomware families worldwide from 2015 to 2019 . In the most recently measured period , there was a total number of 95 newly discovered ransomware families . This was less than half the corresponding count of the previous year , when newly discovered ransomware families amounted to 222 .

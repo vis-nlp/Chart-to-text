@@ -1,0 +1,1 @@
+This graph shows the number of used cars sold by dealers between 2008 and 2014 according to age bracket . Sales of used cars in the age groups three to five years and six to eight years showed an overall increase during the time period shown , except in 2014 when sales figures for cars in these age brackets dropped .

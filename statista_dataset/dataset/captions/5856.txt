@@ -1,0 +1,1 @@
+In 2018 , there were 549 hospitals in the Netherlands , the highest value in the provided time interval . The number of hospitals increased dramatically from 2008 to 2009 , although there was a break in series at this point , so the source may have changed certain standards resulting in this value surge .

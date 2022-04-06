@@ -1,0 +1,36 @@
+Country,Currently confirmed*,Cumulative confirmed,Deaths,Recovered
+Total,1649,95901,4771,89481
+Hong Kong,1197,8237,130,6910
+Taiwan,132,766,7,627
+Shanghai,97,1455,7,1351
+Guangdong,41,2031,8,1982
+Sichuan,37,841,3,801
+Fujian,26,507,1,480
+Inner Mongolia,20,350,1,329
+Shaanxi,16,504,3,485
+Yunnan,14,227,2,211
+Shandong,13,861,7,841
+Beijing,12,961,9,940
+Heilongjiang,12,961,13,936
+Zhejiang,8,1299,1,1290
+Henan,6,1297,22,1269
+Jiangsu,5,684,0,679
+Tianjin,5,304,3,296
+Shanxi,4,224,0,220
+Liaoning,3,292,2,287
+Guangxi,1,264,2,261
+Hubei,0,68149,4512,63637
+Hunan,0,1020,4,1016
+Anhui,0,992,6,986
+Xinjiang,0,980,3,977
+Jiangxi,0,935,1,934
+Chongqing,0,590,6,584
+Hebei,0,373,6,367
+Gansu,0,182,2,180
+Hainan,0,171,6,165
+Jilin,0,157,2,155
+Guizhou,0,147,2,145
+Ningxia,0,75,0,75
+Macao,0,46,0,46
+Qinghai,0,18,0,18
+Tibet,0,1,0,1

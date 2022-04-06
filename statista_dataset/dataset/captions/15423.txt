@@ -1,0 +1,1 @@
+This statistic shows the purchase-only house price index for the United States from 1991 to 2019 . The index , published by the Federal Housing Finance Agency , reflects the changes prices of houses , which were re-purchased at least twice . The index value amounted to 100 in the first quarter of 1991 . In December 2019 , the index value was equal to 283 .

@@ -1,0 +1,1 @@
+This statistic displays a timeline of the annual number of breast cancer incidences in Mexico from 2012 to 2035 . Throughout the period of consideration , the number of breast cancer incidences is expected to grow from 20.4 thousand incidences in 2012 to over 37 thousand in 2035 .

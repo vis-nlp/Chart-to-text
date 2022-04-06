@@ -1,0 +1,1 @@
+This graph presents the number of hours of sunshine in France in 2018 , by city . It displays that Ajaccio was the French city with the highest number of sunshine hours , reaching 2,633.2 hours in 2018 .

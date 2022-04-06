@@ -1,0 +1,1 @@
+This statistic displays the incidence rate of coronary heart disease per 100,000 population in Scotland from 2004/05 to 2018/19 , by gender . In 2018/19 , the incidence rate for men was 435.7 per 100,000 population and for women , the incidence rate was 246.1 per 100,000 population .

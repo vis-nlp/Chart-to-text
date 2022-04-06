@@ -1,0 +1,1 @@
+Average loading time of websites with Android and iPhone ( in seconds )

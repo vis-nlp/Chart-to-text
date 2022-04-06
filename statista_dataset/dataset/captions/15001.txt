@@ -1,0 +1,1 @@
+This time series shows the number of employees of the Armani Group worldwide from 2007 to 2009 . In 2009 , the Armani Group employed a total of 5,208 people worldwide .

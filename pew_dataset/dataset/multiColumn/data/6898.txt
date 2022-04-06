@@ -1,0 +1,1 @@
+Current Economic Situation  | Bad Good  | Hungary  | $4  | Lithuania  | 93  | 91 88  | Ukraine  | Spain  | 12  | 84  | 14  | Bulgaria  | 84  | 16  | France  | 83  | Britain  | 16  | 81  | Czech Rep  | 18  | ULS  | 78 20  | Italy  | 76 22  | 73  | 25  | Slovakia  | 70 28  | Germany  | Russia  | 68 28  | Poland  | 59 38 

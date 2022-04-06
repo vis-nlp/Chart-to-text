@@ -1,0 +1,1 @@
+This statistic predicts the growth in the number of members of car sharing clubs in London between 2013 and 2020 indicating the type of policy used . It was forecast that by 2018 the total number of car sharing members in London would reach 638 thousand .

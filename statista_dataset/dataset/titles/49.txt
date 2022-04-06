@@ -1,0 +1,1 @@
+Monthly development of the Dow Jones Industrial Average index from November 2013 to December 2020

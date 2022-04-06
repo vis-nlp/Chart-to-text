@@ -1,0 +1,1 @@
+This statistic displays the number of hospital beds in France from 2000 to 2018 . The number of hospital beds in France decreased over the period considered to approximately 395.7 thousand in 2018 .

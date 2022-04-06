@@ -1,0 +1,1 @@
+This statistic displays the mean height of individuals , by gender in England from 1998 to 2015 . Men were on average taller than women . According to the survey , the average height of males rose slightly during the period in consideration from 174.4 centimeters in 1998 to 175.6 centimeters in 2013 .

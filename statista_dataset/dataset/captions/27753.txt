@@ -1,0 +1,1 @@
+The statistic shows the average hourly cost of critical application outages , according to a 2016 survey of IT professionals . As of that period , 11 percent of respondents reported the average hourly cost of a critical application outage as being over 75 thousand U.S. dollars .

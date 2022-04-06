@@ -1,0 +1,1 @@
+Siemens Healthineers ' Atellica IM Sars-CoV-2 Total ( COV2T ) test has a sensitivity of 100 percent and a specificity of 99.8 percent . Specificity is the ability of a test to give a true negative test , that means that the person has not been exposed to SARS-CoV-2 and therefore not developed antibodies .

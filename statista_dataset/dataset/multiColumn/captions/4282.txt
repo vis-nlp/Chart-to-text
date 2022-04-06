@@ -1,0 +1,1 @@
+This statistic shows the probability of success for new drugs in the U.S. through the various stages of development , from January 1 , 2006 to December 31 , 2015 , by drug classification . It was found that while non-new molecular entities had a 22.6 percent probability of success from Phase I to approval , new molecular entities had only a 6.2 percent probability of success .

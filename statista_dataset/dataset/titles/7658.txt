@@ -1,0 +1,1 @@
+Length of paved roads in Singapore from 2009 to 2019 ( in lane-kilometers )

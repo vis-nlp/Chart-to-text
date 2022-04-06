@@ -1,0 +1,1 @@
+Import and export values of bicycles in the Netherlands from 2010 to 2019 ( in 1,000s )

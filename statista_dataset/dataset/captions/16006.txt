@@ -1,0 +1,1 @@
+This statistic displays the distribution of the beer retail market , by type of beer in Ireland in 2015 . The most popular beer consumed in Ireland is Lager , which accounts for 63 percent of beers sold .

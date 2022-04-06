@@ -1,0 +1,1 @@
+This statistic shows challenges companies face when deploying and using machine learning in 2018 and 2020 . According to the survey , the most cited ML challenge was scaling up with 43 percent of respondents in 2020 . While versioning and reproducibility of models was chosen by 41 percent of respondents .

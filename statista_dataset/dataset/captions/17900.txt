@@ -1,0 +1,1 @@
+This is a statistic on the occupancy rate of hotels in France in September 2018 , by hotel category . During this period , hotels at a moderate price had an occupancy rate of approximately 80 percent .

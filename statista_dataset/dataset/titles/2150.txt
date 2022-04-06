@@ -1,0 +1,1 @@
+Data volume of global consumer IP traffic from 2017 to 2022 ( in exabytes per month )

@@ -1,0 +1,1 @@
+This statistic shows the number of cyber attacks directed against selected U.S. government departments and agencies in FY 2018 , sorted by attack vector . During the reported period , the Department of Health and Human Services encountered a total of 9,678 cyber security incidents , 885 of which were e-mail or phishing-related attacks .

@@ -1,0 +1,1 @@
+Number of total vehicle crashes in the United States from 1991 to 2014 ( in 1,000s )

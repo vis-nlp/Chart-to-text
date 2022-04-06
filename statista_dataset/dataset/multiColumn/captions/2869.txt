@@ -1,0 +1,1 @@
+This statistic shows the distribution of IT security spending of companies in the United States from 2013 to 2015 , by infrastructure layer . During the 2015 survey it was found that 36 percent of dedicated IT security budgets were allocated to network layers .

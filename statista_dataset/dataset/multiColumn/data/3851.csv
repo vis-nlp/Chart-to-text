@@ -1,0 +1,5 @@
+ship type,Max. no. allowed,Number surrendered to Allies,Size of replacement ships (in thousand tons),Time before replacement allowed (in years)
+Battleships,6,8,10.0,20
+Light cruisers,6,8,6.0,20
+Destroyers,12,42,0.8,15
+Torpedo boats,12,50,0.2,15

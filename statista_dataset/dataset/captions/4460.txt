@@ -1,0 +1,1 @@
+The fastest supercomputer as of June 2020 , Supercomputer Fugaku , a Fujitsu machine operated by the RIKEN Center for Computational Science in Japan , had just under 7.3 million computer cores . The Supercomputer Fugaku overtook IBM 's Summit as the top supercomputer worldwide .

@@ -1,0 +1,1 @@
+This statistic displays the proportion of category A emergency calls ( red 1 and red 2 ) resulting in an ambulance arriving at the scene within 8 minutes in England from 2012/13 to 2016/17 . In the period 2016/17 , 68.7 percent of Red 1 calls were responded to within eight minutes , the lowest percentage for Red 1 calls in the provided time interval .

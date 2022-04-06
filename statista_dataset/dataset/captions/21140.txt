@@ -1,0 +1,1 @@
+The statistic shows the most sought-after platforms among developers worldwide , as of early 2020 . According to the survey , Docker was the most sought after among all the platforms with 24.5 percent of respondents expressing interest in developing with the technology .

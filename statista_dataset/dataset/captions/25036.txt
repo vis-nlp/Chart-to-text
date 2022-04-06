@@ -1,0 +1,1 @@
+This statistic shows the average reuse ratio of learning hours for learning and development ( L & D ) at organizations worldwide between 2010 and 2017 . During the 2017 survey , the reuse ratio was 53.8 . The reuse ratio is the number of learning hours used divided by the number of learning hours available .

@@ -1,0 +1,1 @@
+How big is the Bitcoin blockchain ? Especially since 2014 , the data set experienced exponential growth with megabytes growing by nearly one gigabyte every few days . The bitcoin blockchain is a distributed database that contains a continuously-growing and tamper-evident list of all Bitcoin transactions and records since the date of its initial release in January of 2009 .

@@ -1,0 +1,1 @@
+This statistic shows the risk index scores for zip codes in the United States in 2016 , based on environmental housing risks . As of that time , Denver was the city with the highest risk when it comes to environmental hazards . The index was based off of four factors , including : air quality , superfunds on national priorities , brownfield sites , and polluters .

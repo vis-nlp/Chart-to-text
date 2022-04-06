@@ -1,0 +1,1 @@
+As of June 2020 , of the interconnect families used in the 500 most powerful supercomputers around the world , gigabit ethernet systems accounted for 52.6 percent of the leading supercomputers , whilst infiniband systems were used in 30.6 percent .

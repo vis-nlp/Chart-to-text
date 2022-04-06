@@ -1,0 +1,1 @@
+Quarterly average of daily temperatures in the United Kingdom ( UK ) from 2010 to 2020 ( in degrees Celsius )

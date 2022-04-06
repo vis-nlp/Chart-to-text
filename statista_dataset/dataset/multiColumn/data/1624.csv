@@ -1,0 +1,5 @@
+type of business line,Low estimate,High estimate
+1st tier supplier,7,17
+Assembly/ packaging,2,12
+Market buffer,0,30
+Total inventory days (including 2nd tier supplier),40,70

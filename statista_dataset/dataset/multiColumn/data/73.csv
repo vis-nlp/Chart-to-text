@@ -1,0 +1,24 @@
+military personnel,2019,2020*,2021*
+General (O10),12,14,14
+Lieutenant General (O9),42,43,45
+Major General (O8),89,95,101
+Brigadier General (O7),144,150,157
+Colonel (O6),3336,3550,3750
+Lieutenant Colonel (O5),9777,10017,10175
+Major (O4),14040,14017,14006
+Captain (O3),20666,20790,20878
+1st Lieutenant (O2),7721,7961,7864
+2nd Lieutenant (O1),8075,7775,7650
+Chief Master Sergeant (E9),2613,2670,2720
+Senior Master Sergeant (E8),5379,5485,5560
+Master Sergeant (E7),26491,26693,26746
+Technical Sergeant (E6),39695,39600,39442
+Staff Sergeant (E5),61544,61531,61648
+Senior Airman (E4),54550,57113,56527
+Airman First Class (E3),55166,49140,48336
+Airman (E2),7568,14054,15106
+Airman Basic (E1),10970,9124,8975
+Total Officer Personnel,63902,64412,64640
+Total Enlisted,263976,265410,265060
+Cadets,4223,4000,4000
+Total End Strength,332101,333822,333700

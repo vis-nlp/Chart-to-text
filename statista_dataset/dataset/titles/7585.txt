@@ -1,0 +1,1 @@
+Electricity prices for households in Estonia from 2010 to 2017 , semi-annually ( in euro cents per kilowatt-hour )

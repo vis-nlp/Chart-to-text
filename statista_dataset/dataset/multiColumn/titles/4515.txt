@@ -1,0 +1,1 @@
+Number of passengers boarded by airlines in Russia from April to November 2020 , by company ( in millions )

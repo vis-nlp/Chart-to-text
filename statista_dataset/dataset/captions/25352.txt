@@ -1,0 +1,1 @@
+This statistic shows the number of cars sold by Ford in Norway between 2009 and 2019 . Norwegian sales of Ford cars increased from 9.8 thousand units sold in 2009 to a peak in 2011 , before decreasing over the remainder of the period to a low of four thousand in 2019 .

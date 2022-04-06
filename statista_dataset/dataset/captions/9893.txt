@@ -1,0 +1,1 @@
+This statistic shows the house price index in Germany from the first quarter of 2016 to the fourth quarter of 2019 . Over the period of time in this dataset the house price index of dwellings in Germany has risen fairly steadily to 131.7 as of the fourth quarter of 2019 .

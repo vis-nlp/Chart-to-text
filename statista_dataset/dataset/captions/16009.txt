@@ -1,0 +1,1 @@
+This statistic shows the diference of Airbnb average daily rates ( ADR ) relative to hotel ADR in 2015 , by leading U.S. market . The of Airbnb ADR in Long Island was 149.6 percent higher than the ADR of hotels in the city .

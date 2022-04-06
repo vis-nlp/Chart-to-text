@@ -1,0 +1,1 @@
+This survey depicts the usage of security framework ( s ) used by healthcare organizations in the U.S. as of 2018 . According to the survey , some 58 percent of respondents stated that their organizations use a NIST ( National Institute of Standards and Technology ) framework .

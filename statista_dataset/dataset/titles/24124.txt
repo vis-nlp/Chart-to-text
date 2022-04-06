@@ -1,0 +1,1 @@
+Cash price of a single journey in zones 1 - 4 on the London Underground from 2000 to 2016 ( in GBP )

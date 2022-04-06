@@ -1,0 +1,1 @@
+Finally, we compute the median of the size-adjusted household incomes. Middle-income households, by our definition, earn as much as twice the median income or as little as two-thirds the median. This results in a range of $40,667 to $122,000 for a middle-income American household of three in 2013.

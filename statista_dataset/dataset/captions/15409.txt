@@ -1,0 +1,1 @@
+This statistic shows the predicted change in house prices in the United Kingdom ( UK ) between 2017 and 2023 , as a percentage change from the same time the preceding year . The prices are forecasted to decrease from 2018 onwards , only to reach a slight increase in 2023 at 3.8 percent .

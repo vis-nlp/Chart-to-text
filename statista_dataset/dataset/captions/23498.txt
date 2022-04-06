@@ -1,0 +1,1 @@
+This statistic displays the estimated number of car sharing rides taken between 2017 and 2019 . The market for car sharing has grown over the years , from 12 million rides in 2017 to 78 million in 2019 .

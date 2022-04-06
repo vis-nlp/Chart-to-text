@@ -1,0 +1,1 @@
+According to AV-Test , trojans were by far the most common type of malware across Windows , macOS and Android systems in 2019 . Accounting for over 58 percent of malware incidents in 2019 , trojans place far ahead of second- and third-ranked viruses and scripts .

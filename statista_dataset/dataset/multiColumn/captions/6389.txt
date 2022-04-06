@@ -1,0 +1,1 @@
+In 2018 , only 0.08 percent of Android devices that installed apps only from Google Play were affected by potentially harmful apps ( PHAs ) . Android devices that also installed apps outside from Google Play had a PHAs infection rate of 0.68 percent .

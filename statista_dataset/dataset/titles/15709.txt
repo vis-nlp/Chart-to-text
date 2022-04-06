@@ -1,0 +1,1 @@
+Aircraft hull loss rate per million flights in 2019 , by region ( in units )

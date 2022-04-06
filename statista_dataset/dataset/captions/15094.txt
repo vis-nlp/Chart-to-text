@@ -1,0 +1,1 @@
+This statistic shows major cities in the United States that have the highest average percentage of sunshine per day . Los Angeles in California has sunshine for an average of 73 percent of the day . Phoenix has an average of 85 percent sunshine per day .

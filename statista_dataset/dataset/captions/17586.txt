@@ -1,0 +1,1 @@
+This statistic shows the most commonly encountered families of encryption ransomware as of October 2019 . During the measured year , 23.56 percent of users attacked with encryption ransomware had encountered WannaCry .

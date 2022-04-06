@@ -1,0 +1,23 @@
+industry,Total,Small,Large,Unknown
+Total,32002,407,8666,22929
+Accomodation,125,7,11,107
+Administrative,27,6,15,6
+Agriculture,31,1,3,27
+Construction,37,1,16,20
+Education,819,23,92,704
+Entertainment,194,7,3,184
+Finance,1509,45,50,1414
+Healthcare,798,58,71,669
+Information,5471,64,51,5356
+Management,28,0,26,2
+Manufacturing,922,12,469,441
+Mining,46,1,7,38
+Other Services,107,8,1,98
+Professional,7463,23,73,7367
+Public,6843,41,6030,772
+Real Estate,37,5,4,28
+Retail,287,12,45,230
+Trade,25,2,9,14
+Transportation,112,3,16,93
+Utilities,148,5,15,128
+Unknown,6973,83,1659,5231

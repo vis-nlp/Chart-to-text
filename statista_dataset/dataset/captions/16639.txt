@@ -1,0 +1,1 @@
+The statistic shows the number of unique malware programs that were detected for the first time from 2014 to 2018 . In the most recently reported period , around 246 million new variants of malware were observed , a decrease from 669 million malware variants in 2017 .

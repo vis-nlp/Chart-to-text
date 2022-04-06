@@ -1,0 +1,1 @@
+This statistic displays the number of health insured vs. uninsured adults in the United States from 2001 to 2018 . According to the survey conducted , the number of currently uninsured people dropped from 37 million in 2010 to 23 million in 2018 .

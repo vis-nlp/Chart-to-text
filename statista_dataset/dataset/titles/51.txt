@@ -1,0 +1,1 @@
+Global electricity prices for households in 2020 , by select country ( in U.S. dollars per kilowatt hour )

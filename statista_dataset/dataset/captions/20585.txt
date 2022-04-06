@@ -1,0 +1,1 @@
+This statistic displays the number of hospital admissions for Chronic Obstructive Pulmonary Disease ( COPD ) in selected European countries in 2015 . Austria had the highest number of hospital admissions for Chronic Obstructive Pulmonary Disease with 286.1 admissions per 100,000 population in 2015 .

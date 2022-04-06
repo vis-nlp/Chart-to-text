@@ -1,0 +1,1 @@
+Electricity prices for households in Romania from 2010 to 2020 , semi-annually ( in euro cents per kilowatt-hour )

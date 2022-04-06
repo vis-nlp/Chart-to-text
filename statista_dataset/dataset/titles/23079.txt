@@ -1,0 +1,1 @@
+Leading 20 countries based on probability of mortality due to non-communicable diseases between ages 30 to 70 in 2016

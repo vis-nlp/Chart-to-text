@@ -1,0 +1,1 @@
+Number of employees at HP Inc ( Hewlett Packard ) from 2001 to 2019 ( in 1,000s )

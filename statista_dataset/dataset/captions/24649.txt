@@ -1,0 +1,1 @@
+This statistic lists the most commonly requested types of permissions by apps from the Google Play Store as of September 2014 . During the survey period , it was found that 83 percent of apps in the Google Play store requested full network access .

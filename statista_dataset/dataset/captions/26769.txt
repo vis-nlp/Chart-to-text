@@ -1,0 +1,1 @@
+This statistic displays the annual revenues of the Italian wine company Botter S.p.A. from 2015 to 2018 . According to the figure , the company 's revenues value grew steadily over the period , passing from 154.5 million euros in 2015 to over 195 million euros in 2018 .

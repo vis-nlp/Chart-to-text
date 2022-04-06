@@ -1,0 +1,1 @@
+This statistic displays the number of passenger cars registered in France from 2010 to 2018 , by segment . Over the time period observed , passenger cars in the small and mini segment maintained the highest number of registrations , reaching approximately 1.05 million in 2016 .

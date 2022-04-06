@@ -1,0 +1,11 @@
+Response,Share of users attacked with encryption ransomware
+WannaCry / Trojan-Ransom.Win32.Wanna,23.56%
+(generic verdict) / Trojan-Ransom.Win32.Phny,16.81%
+GranCrab / Trojan-Ransom.Win32.GandCrypt,12.17%
+(generic verdict) / Trojan-Ransom.Win32.Gen,6.26%
+(generic verdict) / Trojan-Ransom.Win32.Crypmod,5.08%
+(generic verdict) / Trojan-Ransom.Win32.Encoder,4.65%
+Shade / Trojan-Ransom.Win32.Shade,2.66%
+PolyRansom/VirLock / Virus.Win32.PolyRansom,2.43%
+(generic verdict) / Trojan-Ransom.Win32.Crypren,2.28%
+Stop / Trojan-Ransom.Win32.Stop,1.94%

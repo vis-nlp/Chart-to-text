@@ -1,0 +1,1 @@
+This statistic shows the distribution of aggregate hospital costs in the United States by stay category and payer in 2012 . In that year , some 55 percent of all hospital stays paid by Medicare were medical stays .

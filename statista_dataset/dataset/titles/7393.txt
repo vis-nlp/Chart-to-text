@@ -1,0 +1,1 @@
+Total number of objects stored in Amazon 's S3 from 4th quarter 2006 to 2nd quarter 2013 ( in billions )

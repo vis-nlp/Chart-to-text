@@ -1,0 +1,1 @@
+This statistic shows the monthly house price index in London , England , from January 2015 to September 2020 . It can be seen that the house price index value increased overall during this period , reaching over 122.3 index points as of September 2020 .

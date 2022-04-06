@@ -1,0 +1,1 @@
+This statistic displays the percentage of adverse drug events ( ADEs ) in U.S. hospitals that were attributable to select medications in 2014 , by drug type . According to the data , of all ADE cases in 2014 , 21.6 percent of them were attributable to antibiotics and anti-infectives .
