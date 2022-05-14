@@ -1,0 +1,4 @@
+index,Other_indirect_obstetric_causes,VIHJAIDS,Digestive_disease,Cardiovascular_disease,Respiratory_disease,Other_direct_obstetric_causes,Obstetric_death_of_unspecified_cause,"Placenta_placental_abruption_praevia,_or_antepartum_hemorrhage",Postpartum_hemorrhage,complications_related_to_puerperium,Sepsis_fother_infections_and_complications_related_to_puerperium,"Hypertension,_edema_proteinuria_or",Abortion
+Abortion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4997004353321617
+Direct_obstetric_causes,0.0,0.0,0.0,0.0,0.0,0.0987187069515228,0.0989068424869911,0.0989375899505282,0.1985774633261454,0.0,0.2997584011967983,0.4993024625554305,0.0
+Indirect_obstetric_causes,0.0991456018146681,0.1985501637971737,0.2999266198396587,0.1986487341618111,0.1984770675843851,0.1986119021078643,0.2998329577112853,0.0989454999180608,0.0992723641148705,0.1985425377771936,0.2995479960604305,0.1009978728271927,0.4995493752342566

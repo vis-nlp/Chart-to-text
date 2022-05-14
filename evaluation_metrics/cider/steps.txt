@@ -1,0 +1,6 @@
+1. make sure files in data folder are correct
+2. python data/data_to_json.py
+3. update params.json file
+4. python cidereval.py
+
+(NOTE: need python 2.7 for running script, and java 1.8.0 for internal java calls)

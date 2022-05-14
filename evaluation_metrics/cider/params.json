@@ -1,0 +1,7 @@
+{
+	"pathToData" : "data/statista/c2t_data/",
+	"refName" : "testOriginalSummary.json",
+	"candName" : "generated-p80.json",
+	"resultFile" : "results.json",
+	"idf" : "corpus"
+}

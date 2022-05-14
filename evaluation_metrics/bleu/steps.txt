@@ -1,0 +1,2 @@
+1. make sure files in data folder are correct.
+2. perl multi-bleu.perl data/testOriginalSummary.txt < data/generated-p80.txt

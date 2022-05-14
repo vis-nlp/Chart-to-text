@@ -1,0 +1,5 @@
+1. make sure files in bleurt/test_data are correct
+2. sh bleurt_scorer.sh
+3. copy generated scores file to the models data folder in bleurt/test_data dir
+4. update data folder path in average_scores.py file
+5. python average_scores.py

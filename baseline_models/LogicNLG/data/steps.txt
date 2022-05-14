@@ -1,0 +1,10 @@
+1. verify C2T_data are correct files
+2. python dataset_preprocess.py
+3. cd vocab_tokenization;python vocab_tokenizer.py
+4. cd input_tokenization;python full_vocab_generator.py
+5. python input_encoding.py (or python OCRinput_encoding.py if using ocr data)
+6. run training with the encoded files and make sure train code points to the correct files
+7. python Transformer.py --do_train (or python OCRTransformer.py --do_train if using ocr data)
+8. python Transformer.py --do_test --load_from models/transformer_ep9.pt (or python OCRTransformer.py --do_test --load_from models/transformer_ep9.pt if using ocr data)
+9. cp field_infusing output_detokenization/; python output_decoding.py
+10. python data_extractor.py

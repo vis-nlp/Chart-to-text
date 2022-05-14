@@ -1,0 +1,2 @@
+#!/bin/bash
+python -m bleurt.score -candidate_file=bleurt/test_data/c2t_data/generated-p80.txt  -reference_file=bleurt/test_data/c2t_data/testOriginalSummary.txt -bleurt_checkpoint=bleurt/test_checkpoint -scores_file=scores

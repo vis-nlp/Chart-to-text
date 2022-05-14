@@ -1,0 +1,3 @@
+1. make sure files in data folder are correct
+2. edit data file paths in ocrdata_auto_eval.py script
+2. python ocrdata_auto_eval.py
