@@ -7,7 +7,7 @@ The repo is adapted from [Transformers-summarization](https://github.com/hugging
 
 ## Setup
 
-Follow [this link]((https://github.com/huggingface/transformers/tree/main/examples/pytorch/summarization) to setup the dependecency and dataset preprocess (to custom JSONLINES files). Note that we concatenate the chart title and the chart together by seperating them with "\<s\>".
+Follow [this link](https://github.com/huggingface/transformers/tree/main/examples/pytorch/summarization) to setup the dependecency and dataset preprocess (to custom JSONLINES files). Note that we concatenate the chart title and the chart together by seperating them with "\<s\>".
 
 
 
