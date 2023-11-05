@@ -1,7 +1,7 @@
 # Chart-to-Text: A Large-Scale Benchmark for Chart Summarization
 
 * Authors: Shankar Kantharaj, Rixie Tiffany Ko Leong, Xiang Lin, [Ahmed Masry](https://sites.google.com/view/ahmedmasry/), Megh Thakkar, Enamul Hoque, Shafiq Joty
-* Paper Link: [Chart-to-Text](https://aclanthology.org/2022.findings-acl.177/)
+* Paper Link: [Chart-to-Text](https://aclanthology.org/2022.acl-long.277/)
 
 ## Chart-to-Text Dataset
 Each dataset folder ([Statiata](https://github.com/vis-nlp/Chart-to-text/tree/main/statista_dataset/dataset) or [Pew](https://github.com/vis-nlp/Chart-to-text/tree/main/pew_dataset/dataset)) has the following structure:
