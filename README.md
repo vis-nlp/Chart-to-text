@@ -2,6 +2,14 @@
 
 * Authors: Shankar Kantharaj, Rixie Tiffany Ko Leong, Xiang Lin, [Ahmed Masry](https://sites.google.com/view/ahmedmasry/), Megh Thakkar, Enamul Hoque, Shafiq Joty
 * Paper Link: [Chart-to-Text](https://aclanthology.org/2022.acl-long.277/)
+* **[NEW]** If you are looking for powerful Chart Models, explore our latest models for chart understanding:
+    * [UniChart](https://github.com/vis-nlp/UniChart)
+        * A lightweight model (140M parameters) excelling in ChartQA, Chart-to-Table, Chart Summarization, and Open-ended QA.
+    * [ChartInstruct](https://github.com/vis-nlp/ChartInstruct)
+        * Our advanced Chart Large Language Model based on LLaVA, supporting LLama2 (7B) and Flan-T5-XL (3B). Perfect for a wide range of chart-related tasks.
+    * [ChartGemma](https://github.com/vis-nlp/ChartGemma)
+        * The state-of-the-art Chart LLM built on PaliGemma (3B), optimized for visual reasoning tasks. 	
+    * **All models are user-friendly and can be run with just a few lines of code. Public web demos are available! Check out their GitHub repositories for more details.**
 
 ## Chart-to-Text Dataset
 Each dataset folder ([Statiata](https://github.com/vis-nlp/Chart-to-text/tree/main/statista_dataset/dataset) or [Pew](https://github.com/vis-nlp/Chart-to-text/tree/main/pew_dataset/dataset)) has the following structure:
